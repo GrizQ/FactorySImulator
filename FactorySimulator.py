@@ -1,4 +1,4 @@
-# lalala add something can recogonize which consumer is being served now
+
 
 #	pygame
 import pygame
